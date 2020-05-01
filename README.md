@@ -1,2 +1,2 @@
-# portfoliojt
-Portafolio 2020 para Linkedin
+# desarrollo-web-portafolio
+Proyecto realizado 
